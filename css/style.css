@@ -1,0 +1,31 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    /* color: white; */
+    color: black;
+    text-align: center;
+}
+
+
+table {
+    margin: 100px auto;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.cell img {
+    width: 25px;
+    height: auto;
+}
+
+.floor {
+    background-color: rgb(183, 183, 183);
+}
+
+.wall {
+    background-color: rgb(131, 156, 177);
+}
